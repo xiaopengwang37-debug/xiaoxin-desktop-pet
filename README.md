@@ -49,7 +49,7 @@ https://github.com/user-attachments/assets/7d635e2c-b98c-4970-b3a4-2766de35d4e2
 
 ## 下载和安装
 
-1. 打开 **[Releases 下载页](https://github.com/xiaopengwang37-debug/xiaoxin-desktop-pet/releases/latest)**，下载 `小欣-…-macOS.zip`。
+1. 打开 **[Releases 下载页](https://github.com/xiaopengwang37-debug/xiaoxin-desktop-pet/releases/latest)**，下载 `Xiaoxin-0.7.0-macOS-AppleSilicon.zip`。
 2. 双击解压，把「小欣.app」拖进「应用程序」文件夹。
 3. **第一次打开**：因为还没有经过 Apple 公证，直接双击会提示“无法验证开发者”。这样打开：
    - 在「应用程序」里**右键点「小欣」→ 打开**，在弹出的窗口里再点一次「打开」；
