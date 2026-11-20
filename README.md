@@ -14,6 +14,17 @@
 
 ---
 
+## 小欣的各种样子
+
+<table>
+<tr><td align="center"><img src="docs/poses/00-heartGesture.png" width="150"><br><sub>比心</sub></td><td align="center"><img src="docs/poses/01-cheerWave.png" width="150"><br><sub>加油</sub></td><td align="center"><img src="docs/poses/02-wave.png" width="150"><br><sub>打招呼</sub></td><td align="center"><img src="docs/poses/03-greetCurtsy.png" width="150"><br><sub>行个礼</sub></td><td align="center"><img src="docs/poses/04-shyCover.png" width="150"><br><sub>害羞</sub></td></tr>
+<tr><td align="center"><img src="docs/poses/05-smirkGiggle.png" width="150"><br><sub>偷笑</sub></td><td align="center"><img src="docs/poses/06-angryStomp.png" width="150"><br><sub>生气跺脚</sub></td><td align="center"><img src="docs/poses/07-facepalm.png" width="150"><br><sub>无语</sub></td><td align="center"><img src="docs/poses/08-laptopType.png" width="150"><br><sub>敲小电脑</sub></td><td align="center"><img src="docs/poses/09-writeNote.png" width="150"><br><sub>记小本子</sub></td></tr>
+<tr><td align="center"><img src="docs/poses/10-drawLot.png" width="150"><br><sub>摇签</sub></td><td align="center"><img src="docs/poses/11-pomodoroWind.png" width="150"><br><sub>番茄钟</sub></td><td align="center"><img src="docs/poses/12-dozePlush.png" width="150"><br><sub>抱着玩偶打盹</sub></td><td align="center"><img src="docs/poses/13-stretch.png" width="150"><br><sub>伸懒腰</sub></td><td align="center"><img src="docs/poses/14-umbrellaOpen.png" width="150"><br><sub>撑伞</sub></td></tr>
+<tr><td align="center"><img src="docs/poses/15-crawlLoop.png" width="150"><br><sub>到处爬</sub></td><td align="center"><img src="docs/poses/16-christmasShow.png" width="150"><br><sub>圣诞</sub></td><td align="center"><img src="docs/poses/17-springShow.png" width="150"><br><sub>春节</sub></td><td align="center"><img src="docs/poses/18-valentineShow.png" width="150"><br><sub>情人节</sub></td><td align="center"><img src="docs/poses/19-day100Show.png" width="150"><br><sub>认识一百天</sub></td></tr>
+</table>
+
+她有五十多种动作，上面只是一小部分。
+
 ## 她能做什么
 
 | | |
