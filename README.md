@@ -7,6 +7,10 @@
 
 <img src="docs/preview.gif" width="640" alt="小欣：老板来了，连按两下 Option，一秒变成泡泡">
 
+
+https://github.com/user-attachments/assets/7d635e2c-b98c-4970-b3a4-2766de35d4e2
+
+
 **[⬇️ 下载小欣](https://github.com/xiaopengwang37-debug/xiaoxin-desktop-pet/releases/latest)** ·
 **[▶️ 看宣传片（2 分半）](https://github.com/xiaopengwang37-debug/xiaoxin-desktop-pet/releases/latest)**
 
